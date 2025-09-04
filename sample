@@ -1,0 +1,19 @@
+Create a Branch
+
+Click the branch dropdown → type a new branch name → press Enter.
+
+Upload or Create File
+
+Click Add file → Upload files (or Create new file) → select/write your solution.
+
+Commit Changes
+
+Add a commit message → ensure Commit to <your-branch-name> → click Commit changes.
+
+Start Pull Request
+
+Click the Compare & pull request banner that appears after commit.
+
+Create Pull Request
+
+Check base branch (main) and compare branch → add title/description → click Create Pull Request.
